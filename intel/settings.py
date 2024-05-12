@@ -29,7 +29,8 @@ SECRET_KEY = config("SECRET_KEY")
 DEBUG = False
 
 ALLOWED_HOSTS = [
-
+    'lionfish-app-zavzm.ondigitalocean.app',
+    'www.nnbnetwork.com'
 ]
 
 
